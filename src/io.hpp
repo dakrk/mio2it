@@ -86,7 +86,7 @@ namespace io {
 		 * ======================== */
 
 		bool good() const                { return !error_ && !eof_; }
-		inline bool eof() const          { return eof_; }
+		bool eof() const                 { return eof_; }
 		std::error_code error() const    { return error_; }
 
 		explicit operator bool() const   { return !error(); }
