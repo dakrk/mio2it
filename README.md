@@ -4,7 +4,7 @@ mio2it is a tool that converts music data from WarioWare DIY, stored in MIO file
 
 ## Download
 
-Releases are published at https://github.com/dakrk/mio2it/releases.
+Releases will eventually be published at https://github.com/dakrk/mio2it/releases once the program is in a more useable state.
 
 ## Building
 
