@@ -1,0 +1,6 @@
+#pragma once
+
+inline constexpr unsigned int versionMajor = @mio2it_VERSION_MAJOR@;
+inline constexpr unsigned int versionMinor = @mio2it_VERSION_MINOR@;
+inline constexpr unsigned int versionPatch = @mio2it_VERSION_PATCH@;
+inline constexpr const char* versionString = "@mio2it_VERSION_MAJOR@.@mio2it_VERSION_MINOR@.@mio2it_VERSION_PATCH@";
